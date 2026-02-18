@@ -1,0 +1,18 @@
+Tools: Python, Machine Learning, Data Analysis
+
+Goal:
+To detect abnormal behaviour in surveillance video datasets and improve automated monitoring.
+
+What I did:
+
+Preprocessed large video surveillance datasets
+
+Extracted motion-based features for anomaly detection
+
+Implemented machine learning models to identify abnormal events
+
+Evaluated performance using ROC-AUC, precision, recall, and F1-score
+
+Outcome:
+
+Successfully detected abnormal patterns and produced visual outputs highlighting anomaly regions, demonstrating the ability to analyse large datasets and deliver structured analytical results.
